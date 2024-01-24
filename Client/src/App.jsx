@@ -1,5 +1,5 @@
 import React from "react"
-// /import { Hero , Navbar, Products, Footer} from "./Components/index"
+import { Hero , Navbar, Products, Footer} from "./Components/index"
 import {Login , Sign} from "./Components/index"
 
 import './App.css'
@@ -8,12 +8,12 @@ import './App.css'
 function App() {
   return (
     <>
-    {/* <Navbar/>
+    <Navbar/>
     <Hero/>
     <Products/>
-    <Footer/> */}
-    <Sign/>
-    <Login/>
+    <Footer/>
+    {/* <Sign/> */}
+    {/* <Login/> */}
     </>
   )
 }
