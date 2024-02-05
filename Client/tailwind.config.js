@@ -6,7 +6,13 @@ export default {
   ],
 
   theme: {
-    extend: {},
+    extend: {
+    backgroundImage :
+    {
+      'nav' : 'url(./images/nav.png)',
+    },
+    
+    },
   },
   plugins: [],
 }
