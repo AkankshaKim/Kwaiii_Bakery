@@ -39,3 +39,8 @@
         background-image: url(../public/images/rose_cupcakes.jpg);
     }
 }
+
+.sign_bg_img {
+    background-image: url(../public/images/cute_bg.jpg);
+    overflow: visible;
+}

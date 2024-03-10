@@ -1,5 +1,5 @@
 import React from "react"
-import { Hero , Navbar, Products, Footer} from "./Components/index"
+import { Hero , Navbar, Products, Footer, Ecommerce} from "./Components/index"
 import {Login , Sign} from "./Components/index"
 
 import './App.css'
@@ -11,6 +11,7 @@ function App() {
     <Navbar/>
     <Hero/>
     <Products/>
+    <Ecommerce/>
     <Footer/>
     {/* <Sign/> 
     <Login/> */}
